@@ -17,3 +17,5 @@
 ## Author
 Henri Guillot
 
+## 📄 Documentation
+👉 [Voir le lab en PDF](docs/azure_lab_network_vm.pdf)
